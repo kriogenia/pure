@@ -38,7 +38,7 @@ _pure_set_default pure_color_username_root white
 
 #  env for Python
 _pure_set_default pure_enable_virtualenv true
-_pure_set_default pure_symbol_virtualenv_prefix "🐍" # 🐍
+_pure_set_default pure_symbol_virtualenv_prefix "" # 🐍
 _pure_set_default pure_color_virtualenv dcbe6b
 
 # AWS profile name

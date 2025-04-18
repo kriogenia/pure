@@ -79,7 +79,7 @@ _pure_set_default pure_enable_container_detection true
 _pure_set_default pure_symbol_container_prefix "🐋" # suggestion: '🐋' or '📦'
 
 # Detect when running in SSH
-_pure_set_default pure_symbol_ssh_prefix "🔗" # suggestion: 'ssh:/' or '🔗🔐🔒🌐'
+_pure_set_default pure_symbol_ssh_prefix "ssh:/" # suggestion: 'ssh:/' or '🔗🔐🔒🌐'
 
 # Display Kubernetes/k8s context and namespace
 _pure_set_default pure_enable_k8s false
